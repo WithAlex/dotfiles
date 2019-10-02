@@ -1,0 +1,10 @@
+/.idea
+/dumps
+/dump
+npm-debug.log
+/.htacess
+/robot.txt
+/package-lock.json
+*~
+/.data
+/.php_cs.cache
